@@ -53,8 +53,6 @@ A simple old-school space shooting game where players control a spaceship to sho
 
 
 ## 👨‍💻 Acknowledgments
-
-- Thanks to **Mozilla Developer Network** (MDN) for the Canvas API documentation.
 - Inspired by classic space shooters like **Asteroids** and **Space Invaders**.
   
 ## 📸 Screenshots
